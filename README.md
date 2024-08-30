@@ -1,52 +1,29 @@
-- 👋 Hi, I’m @sabakhan26
-- 👀 I’m interested in  full-stack development
-- 🌱 I’m currently learning MERN (MongoDB, Express.js, React, Node.js)
-- 💞️ I’m looking to collaborate on web applications,coding challenges
-- 📫 How to reach me sabaarshankhan@gmail.com
-- 😄 Pronouns: she/her/miss
-- ⚡ Fun fact: I’ve built a website from scratch,I'm Open National Level player in First Dodge Ball Federation Of India,I'm State Level player in Hand Ball.
+# Welcome to My GitHub Profile
 
-<!---
-sabakhan26/sabakhan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Saba Khan
+## About Me
 
-Welcome to my GitHub profile! I'm Saba Khan, passionate about technology and development with a focus on creating impactful solutions. Below, you'll find an overview of my qualifications, experiences, and achievements.
+Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you. Here’s a bit about my background and how I transitioned into the field of Information Technology.
 
-## 👨‍🎓 Qualifications
+## Education
 
-- **BE (Computer Science)**
+- **Bachelor of Engineering (BE) in Computer Science**
   - **University:** RGPV Bhopal
   - **Institute:** Synergy Institute of Tech & Mgmt., Dewas
   - **Year:** 2014
-  - **Percentage:** 62%
 
-- **12th Grade**
-  - **Board:** MP Board
-  - **School:** Ebenezer Hr. Sec. School, Dewas
-  - **Year:** 2010
-  - **Percentage:** 69.6%
-
-- **10th Grade**
-  - **Board:** MP Board
-  - **School:** Ebenezer Hr. Sec. School, Dewas
-  - **Year:** 2008
-  - **Percentage:** 66%
-
-## 💼 Experience
+## Professional Experience
 
 - **Live ERP Project**  
   *Bhavya InfoTech*  
-  Contributed to a live ERP project for a multinational company, focusing on implementation and optimization.
+  Contributed to a live ERP project in a multinational company, focusing on implementation and optimization.
 
 - **Property Management System**  
   *ELIPSION Pvt. Ltd.*  
-  Worked on a Property Management System project, handling software development and system integration.
+  Worked on a Property Management System project, involving software development and system integration.
 
 - **Receptionist and Back Office**  
   *Silver Park Kshipra*  
-  Managed front-desk operations and administrative tasks, improving overall office efficiency.
+  Managed front-desk operations and administrative tasks, improving office efficiency.
 
 - **HR**  
   *Kothari Institute, Indore*  
@@ -60,50 +37,49 @@ Welcome to my GitHub profile! I'm Saba Khan, passionate about technology and dev
   *Aadarsh Computer Institute*  
   Taught competitive exam preparation for government jobs, developing curricula and guiding students.
 
-- **BPO Experience**  
-  *BPO, Indore*  
-  Gained experience in customer service and operational support.
+- **Eskills Web**  
+  *Intern*
+  *Duration: 07/2023 - Present*  
+  I gained hands-on experience with the MERN stack, including MongoDB, Express.js, React.js, and Node.js. I 
+  contributed to developing and deploying web applications, enhancing my skills in full-stack development and real- 
+  world project implementation.
+  
+## Skills
 
-## 🌟 Achievements
-
-- **Open National Level Player**  
-  *First Dodge Ball Federation of India*  
-  Competed at the national level, showcasing exceptional skills in dodgeball.
-
-- **State Level Player**  
-  *Handball*  
-  Represented the state in handball, demonstrating high-level performance.
-
-## 🛠 IT Skills
-
-- **Programming Languages:** C, C++
+- **Programming Languages:** C, C++, JavaScript
+- **Frameworks and Libraries:** React, Node.js, Express.js
 - **Database Management:** Oracle Forms, Oracle 10g, PL/SQL, MySQL
-- **Networking:** Fundamental networking concepts
-- **Operating Systems:** Windows XP
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Tools and Technologies:** Git, Docker
+- **Soft Skills:** Leadership, Problem-Solving, Adaptability, Teamwork
 
-## 🏆 Extracurricular Activities
+## Learning
 
-- Winner of Basketball Competition
-- Awarded in Sanskriti Gyan Pariksha Competition
-- Recognized in Drama, Drawing, and English Play
-- Awarded by Help Age India for Social Service
+I am currently expanding my expertise in the MERN stack (MongoDB, Express, React, Node.js) to further enhance my web development capabilities.
 
-## 🌟 Personal Strengths
+## Projects
 
-- Leadership
-- Smart Worker
-- Positive Attitude
-- Punctuality
-- Obedient
+I have worked on various projects related to the MERN stack and other technologies. Here are a few highlights:
 
-## 📞 Contact Information
+- **Feedback App**
+  - **Description:** A web application to collect and analyze feedback on various topics.
+  - **Technologies Used:** React, JavaScript, Bootstrap
 
-- **Phone:** +91-9425123024
-- **Email:** [sabaarshankhan@gmail.com](mailto:sabaarshankhan@gmail.com)
-- **Location:** 260, L.I.G. Mukharjee Nagar, Dewas (M.P.)
+- **SIP Calculator**
+  - **Description:** A tool to calculate the return on investment for systematic investment plans.
+  - **Technologies Used:** JavaScript, React, Bootstrap
 
----
+- **CRUD Operation**
+  - **Description:** A to-do application with Create, Read, Update, and Delete functionalities, using Context for 
+                     state management.
+  - **Technologies Used:** JavaScript, React, Bootstrap
 
-Feel free to connect with me or explore my projects and contributions. Thank you for visiting my GitHub profile!
+Feel free to explore my repositories to see more of my work.
 
+## Contact Me
+
+I’m always open to connecting with like-minded professionals and exploring new opportunities. You can reach me at:
+
+- **Email:**sabaarshankhan@gmail.com
+- **LinkedIn:**https://www.linkedin.com/in/saba-khan
+
+Thank you for visiting my GitHub profile!
