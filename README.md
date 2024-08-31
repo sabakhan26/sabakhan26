@@ -17,10 +17,6 @@ Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you.
   *Bhavya InfoTech*  
   Contributed to a live ERP project in a multinational company, focusing on implementation and optimization.
 
-- **Property Management System**  
-  *ELIPSION Pvt. Ltd.*  
-  Worked on a Property Management System project, involving software development and system integration.
-
 - **Receptionist and Back Office**  
   *Silver Park Kshipra*  
   Managed front-desk operations and administrative tasks, improving office efficiency.
@@ -48,7 +44,7 @@ Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you.
 
 - **Programming Languages:** C, C++, JavaScript
 - **Frameworks and Libraries:** React, Node.js, Express.js
-- **Database Management:** Oracle Forms, Oracle 10g, PL/SQL, MySQL
+- **Database Management:** MongoDB, Oracle Forms, Oracle 10g, PL/SQL, MySQL
 - **Tools and Technologies:** Git, Docker
 - **Soft Skills:** Leadership, Problem-Solving, Adaptability, Teamwork
 
@@ -82,4 +78,4 @@ I’m always open to connecting with like-minded professionals and exploring new
 - **Email:**sabaarshankhan@gmail.com
 - **LinkedIn:**https://www.linkedin.com/in/saba-khan
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! 
