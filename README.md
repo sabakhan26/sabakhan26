@@ -41,12 +41,39 @@ Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you.
   world project implementation.
   
 ## Skills
+Programming Languages:
 
-- **Programming Languages:** C, C++, JavaScript
-- **Frameworks and Libraries:** React, Node.js, Express.js
-- **Database Management:** MongoDB, Oracle Forms, Oracle 10g, PL/SQL, MySQL
-- **Tools and Technologies:** Git, Docker
-- **Soft Skills:** Leadership, Problem-Solving, Adaptability, Teamwork
+
+
+Database Management:
+
+
+Tools and Technologies:
+
+
+Docker
+
+
+- **Programming Languages:** 
+    C
+    C++
+    JavaScript
+- **Frameworks and Libraries:**
+    React
+    Node.js
+    Express.js
+- **Database Management:** 
+    MongoDB
+    Oracle Forms
+    Oracle 10g
+    PL/SQL
+    MySQL
+- **Tools and Technologies:**
+    Git
+- **Development Practices:**
+    Full-Stack Development
+    Web Application Development
+    RESTful API Integration
 
 ## Learning
 
