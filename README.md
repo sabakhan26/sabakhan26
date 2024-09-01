@@ -41,19 +41,6 @@ Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you.
   world project implementation.
   
 ## Skills
-Programming Languages:
-
-
-
-Database Management:
-
-
-Tools and Technologies:
-
-
-Docker
-
-
 - **Programming Languages:** 
     C
     C++
@@ -103,6 +90,6 @@ Feel free to explore my repositories to see more of my work.
 I’m always open to connecting with like-minded professionals and exploring new opportunities. You can reach me at:
 
 - **Email:**sabaarshankhan@gmail.com
-- **LinkedIn:**https://www.linkedin.com/in/saba-khan
+- **LinkedIn:**[https://www.linkedin.com/in/saba-khan](https://www.linkedin.com/in/saba-khan26/)
 
 Thank you for visiting my GitHub profile! 
