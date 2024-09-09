@@ -13,17 +13,16 @@ Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you.
 
 ## Professional Experience
 
+- **Eskills Web**  
+  *Intern*
+  *Duration: 07/2023 - Present*  
+  I gained hands-on experience with the MERN stack, including MongoDB, Express.js, React.js, and Node.js. I 
+  contributed to developing and deploying web applications, enhancing my skills in full-stack development and real- 
+  world project implementation.
+
 - **Live ERP Project**  
   *Bhavya InfoTech*  
   Contributed to a live ERP project in a multinational company, focusing on implementation and optimization.
-
-- **Receptionist and Back Office**  
-  *Silver Park Kshipra*  
-  Managed front-desk operations and administrative tasks, improving office efficiency.
-
-- **HR**  
-  *Kothari Institute, Indore*  
-  Handled recruitment, employee relations, and payroll management, ensuring smooth HR operations.
 
 - **Training on Oracle 10g**  
   *S Kumar’s Company*  
@@ -33,13 +32,14 @@ Hello! I'm Saba Khan, and I'm excited to share my journey and projects with you.
   *Aadarsh Computer Institute*  
   Taught competitive exam preparation for government jobs, developing curricula and guiding students.
 
-- **Eskills Web**  
-  *Intern*
-  *Duration: 07/2023 - Present*  
-  I gained hands-on experience with the MERN stack, including MongoDB, Express.js, React.js, and Node.js. I 
-  contributed to developing and deploying web applications, enhancing my skills in full-stack development and real- 
-  world project implementation.
-  
+- **Receptionist and Back Office**  
+  *Silver Park Kshipra*  
+  Managed front-desk operations and administrative tasks, improving office efficiency.
+
+  - **HR**  
+  *Kothari Institute, Indore*  
+  Handled recruitment, employee relations, and payroll management, ensuring smooth HR operations.
+
 ## Skills
 - **Programming Languages:** 
     C
